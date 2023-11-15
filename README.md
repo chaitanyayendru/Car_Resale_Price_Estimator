@@ -22,7 +22,7 @@ Follow these steps to run the web app locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/car-resale-analysis.git
+   git clone https://github.com/chaitanyayendru/Car_Resale_Price_Estimator
 Install Dependencies:
 
 bash
