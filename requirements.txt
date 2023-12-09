@@ -3,3 +3,4 @@ pandas
 plotly
 streamlit_option_menu
 numerize
+xgboost
